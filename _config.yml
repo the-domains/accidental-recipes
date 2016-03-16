@@ -1,6 +1,6 @@
 name: Accidental Recipes
 favicon: null
-layout_spectrum: 0.7005969083402306
+layout_spectrum: 0.22073
 typography_spectrum: 0.9050296589266509
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.8709618961438537
+    - '#030303'
+    - '#bcdceb'
+    - '#a4abb3'
+    - '#627488'
+    - '#2f431e'
+  brandStrength: 0.125
   lightness: 0.5932531750295311
-  saturation: 0.4732890804298222
+  saturation: 0.25
   rhythmicContrast: 0.4351510105188936
 purpose: []
