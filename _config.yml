@@ -1,28 +1,40 @@
-name: Accidental Recipes
 favicon: null
-layout_spectrum: 0.22073
-typography_spectrum: 0.9050296589266509
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Accidental Recipes
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.25
+  brandStrength: 0.125
+  rhythmicContrast: 0.4351510105188936
   brandColors:
     - '#030303'
     - '#bcdceb'
     - '#a4abb3'
     - '#627488'
     - '#2f431e'
-  brandStrength: 0.125
   lightness: 0.5932531750295311
-  saturation: 0.25
-  rhythmicContrast: 0.4351510105188936
-purpose: []
+typography_spectrum: 0.1272401
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.22073
+analytics:
+  twitter: null
+  google: null
+  facebook: null
